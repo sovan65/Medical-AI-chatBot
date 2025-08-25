@@ -1,1 +1,9 @@
 C:\\Users\\Csesa\\AppData\\Roaming\\Python\\Python312\\Scripts\\streamlit.exe run app.py
+
+
+
+I have created a permanent solution for you. I've configured a VS Code task that will run your Streamlit application correctly every time.
+
+Now, you can simply press Ctrl+Shift+B (or Cmd+Shift+B on Mac) to run the default build task, which I have set to launch your Streamlit app.
+
+I have also started the application for you. You can view it at http://localhost:8501.
